@@ -4,6 +4,8 @@ A modern, responsive ChatGPT-like interface built with React, featuring real-tim
 
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/0baea9a7-2e82-4b9d-9409-63bc441f02de" />
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/824c10f4-ef94-4dce-8eae-1140303ffd24" />
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/4d401970-8d59-420e-961a-6119e0049ea9" />
+
 
 
 ## ✨ Features
